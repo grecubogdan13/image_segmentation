@@ -9,3 +9,4 @@ Better results can be noted, as the ROC curve is closer to the top left corner o
 Implemented a method to segment the image using k-means, using only color, and color and position as features. <br> 
 Implemented a method to compare the input image and the clustered version by using the L2 distance and calculate the error. <br> 
 Plotted error curves for both the color and color and position segmentation algorithm, under variying k (the number of clusters). <br> 
+This repo represents my submission for the first coursework at COMP0026 Image Processing. You can read more details about the requirements in the pdf file.
