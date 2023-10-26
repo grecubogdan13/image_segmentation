@@ -1,5 +1,5 @@
 # image_segmentation
-Implemented an RGB to grayscale convertor.
+Implemented an RGB to grayscale convertor. '\n'
 Implemented a function to threshold an image by a treshold value t.
 Implemented a function that plots the ROC(receiver operating characteristic) curve of the thresholding function under varying t.
 Calculated the optimal threshold t (precision and recall weighted equally).
